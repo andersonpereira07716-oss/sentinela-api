@@ -11,7 +11,9 @@ app.use(express.json());
 
 // Rotas da API
 const apiRoutes = require('./src/routes/api');
+const driveRoutes = require('./src/routes/driveRoute');
 app.use('/api', apiRoutes);
+app.use('/api/drive', driveRoutes);
 
 // Rota de Boas-Vindas / Status
 app.get('/', (req, res) => {
