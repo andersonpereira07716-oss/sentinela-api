@@ -1,0 +1,56 @@
+{
+  "jornadas": [
+    {
+      "id": "1792029126349",
+      "destino": "Teste Local Termux",
+      "duracaoMinutos": 20,
+      "usuario": "Anderson",
+      "status": "EM_ANDAMENTO",
+      "criadoEm": "2026-10-15T01:52:06.350Z"
+    }
+  ],
+  "ocorrencias": [
+    {
+      "texto": "Contato adicionado: Anderson",
+      "data": "2026-10-15T08:21:43.771Z"
+    },
+    {
+      "texto": "Contato adicionado: Erika",
+      "data": "2026-10-15T08:18:12.641Z"
+    },
+    {
+      "texto": "Contato adicionado: Erika",
+      "data": "2026-10-15T02:04:25.534Z"
+    },
+    {
+      "texto": "Contato adicionado: Erika Kercya",
+      "data": "2026-10-15T01:57:19.124Z"
+    },
+    {
+      "texto": "Jornada iniciada para: Teste Local Termux",
+      "data": "2026-10-15T01:52:06.359Z"
+    }
+  ],
+  "contatos": [
+    {
+      "name": "Erika Kercya",
+      "phone": "83987894764",
+      "relation": "Esposa"
+    },
+    {
+      "name": "Erika",
+      "phone": "83987894764",
+      "relation": "Esposa"
+    },
+    {
+      "name": "Erika",
+      "phone": "83987894764",
+      "relation": "Esposa"
+    },
+    {
+      "name": "Anderson",
+      "phone": "83998765554",
+      "relation": "Eu mesmo"
+    }
+  ]
+}
